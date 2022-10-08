@@ -4,6 +4,7 @@ def is_number(s):
         return True
     except ValueError:
         pass
+
     try:
         import unicodedata
         unicodedata.numeric(s)

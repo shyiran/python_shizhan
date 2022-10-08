@@ -14,7 +14,6 @@ if num >= 0:
 else:
     print("负数")
 
-
 while True:
     try:
         # num=float(input('请输入一个数字：'))
