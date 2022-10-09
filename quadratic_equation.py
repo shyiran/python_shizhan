@@ -1,3 +1,4 @@
+#通过用户输入数字，并计算二次方程的解
 import cmath
 
 a = float(input('请输入第一个数：'))

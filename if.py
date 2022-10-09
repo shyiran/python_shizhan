@@ -1,3 +1,4 @@
+#通过使用 if...elif...else 语句判断数字是正数、负数或零
 num = float(input("输入一个数字: "))
 if num > 0:
     print("正数")
@@ -6,6 +7,7 @@ elif num == 0:
 else:
     print("负数")
 
+#   
 if num >= 0:
     if num == 0:
         print("零")
@@ -14,6 +16,7 @@ if num >= 0:
 else:
     print("负数")
 
+#
 while True:
     try:
         # num=float(input('请输入一个数字：'))

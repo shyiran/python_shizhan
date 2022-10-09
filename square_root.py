@@ -1,8 +1,11 @@
+#通过用户输入一个数字，并计算这个数字的平方根
+
 import cmath
 
 num = float(input('请输入一个数：'))
 num_sqrt = num ** 0.5
 print('%0.3f的平方根为 %0.3f' % (num, num_sqrt))
+
 
 num1 = float(input('请输入一个数：'))
 num_sqrt1 = cmath.sqrt(num1)

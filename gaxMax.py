@@ -1,3 +1,5 @@
+#使用max()方法求最大值
+
 # 最简单的
 print(max(1, 2))
 print(max('a', 'b'))
