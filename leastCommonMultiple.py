@@ -1,7 +1,6 @@
 # 用于实现最小公倍数算法
 # 定义函数
 def lcm(x, y):
-
     #  获取最大的数
     if x > y:
         greater = x
